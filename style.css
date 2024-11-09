@@ -1,0 +1,38 @@
+.body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.head {
+    Font-weight: bold;
+    font-size: 42px;
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+
+.head2 {
+    Font-weight: bold;
+    font-size: 34px;
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+.link ,
+.des {
+    Font-size: 28px;
+    font-weight: 500;
+    color:black;
+}
+    
+ .link {   
+    margin-left: 20%;
+    
+
+}
+.shrimp {
+    height:auto;
+    width:300px;
+    padding-left:40%;
+}
+.des {
+    text-align: center;
+}
